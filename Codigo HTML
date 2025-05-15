@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stardew Valley</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="images/logo.png" alt="Stardew Valley" class="logo">
+        </header>
+        <nav class="menu">
+    <ul>       
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Historia</a></li>
+        <li><a href="#">Mistérios</a></li>        
+    </ul>
+</nav>
+<section class="post">
+    <div class="post-inner">
+        <h2>Stardew Valley</h2>
+        <p>
+            Stardew Valley te convida a trocar a agitação da cidade pela serenidade do campo, herdando a antiga fazenda do seu avô no acolhedor Vale do Orvalho. Mais do que um simples simulador de fazenda, o jogo te insere em uma narrativa onde você revitaliza não só a terra esquecida, mas também uma comunidade charmosa ameaçada pela modernização da corporação JojaMart.
+        </p>
+
+        <p>
+            Ao desbravar a fazenda, plantar suas primeiras colheitas e criar laços com os peculiares moradores da vila, você se torna parte de uma história em constante evolução. A exploração revela mistérios nas minas e na floresta, enquanto a escolha entre apoiar o progresso da JojaMart ou restaurar o Centro Comunitário define o futuro do vale e o seu papel nele.
+        </p>
+
+        <p>
+            Stardew Valley é uma jornada pessoal de recomeço, construção de relacionamentos e descoberta da magia na vida rural. Cada interação, cada estação e cada escolha tece uma tapeçaria única da sua própria história no coração do vale.
+        </p>
+
+        <p><strong>Em resumo:</strong> Uma aventura relaxante na vida do campo com escolhas significativas e uma comunidade acolhedora.</p>
+        <header>
+                    <img src="images/img1.png" alt="Stardew Valley" class="logo">
+        <header>
+                    <img src="images/img2.png" alt="Stardew Valley" class="logo">
+        </header>
+        <header>
+                    <img src="images/img3.png" alt="Stardew Valley" class="logo">
+        </header>
+        <header>
+                    <img src="images/img4.png" alt="Stardew Valley" class="logo">
+        </header>
+        <header>
+                    <img src="images/img5.png" alt="Stardew Valley" class="logo">
+        </header>
+        <header>
+                    <img src="images/img6.png" alt="Stardew Valley" class="logo">
+        </header>
+       </div>
+</section>
+
+        <footer>
+            <p>&copy; 2025 ConcernedApe. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
