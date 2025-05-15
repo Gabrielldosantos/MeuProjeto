@@ -1,0 +1,19 @@
+Este site foi desenvolvido como um projeto acadêmico com o objetivo de aplicar conhecimentos de HTML e CSS, criando uma estrutura visualmente agradável, funcional e organizada. 
+
+Objetivo do site:
+Apresentar uma página institucional fictícia com elementos visuais, informações organizadas em seções e imagens ilustrativas, reforçando práticas de frontend com HTML e CSS. 
+
+URL de acesso: O projeto está armazenado localmente. 
+https://j0n4s-c4rv4lh0.github.io/TrabalhoDevops/index.html# 
+
+hospedado:
+https://github.com/Gabrielldosantos/MeuProjeto 
+
+Descrição do pipeline configurado:
+Este projeto não possui pipeline de CI/CD automatizado, já que é uma aplicação estática simples. O projeto completo será com pipeline de CI/DC. 
+
+Princípios de uma boa documentação utilizados:
+Clareza: Instruções diretas e simples;
+Organização: Estrutura de arquivos bem definida (index.html, style.css, images/);
+Reusabilidade: Separação do CSS externo para facilitar manutenções; 
+Navegabilidade: Design limpo e fácil de entender, com imagens e seções bem distribuídas. 
